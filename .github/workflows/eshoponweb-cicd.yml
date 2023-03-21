@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 4b135ae2-7725-4b15-a2b4-45723abb57f8
-  WEBAPP-NAME: eShopOnWeb
+  WEBAPP-NAME: eShopOnWeb-huseyin
 
 
 jobs:
